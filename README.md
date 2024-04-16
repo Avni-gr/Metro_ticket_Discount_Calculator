@@ -27,7 +27,7 @@ Metro Ticket Discount Calculator! Say goodbye to confusion and hello to savings 
 
 ### Links
 
-- Live Site URL: (https://avni-gr.github.io/Income_Tax_Calculator/)
+- Live Site URL: (https://avni-gr.github.io/Matro_ticket_Discount_Calculator/)
 
 ## My process
 
