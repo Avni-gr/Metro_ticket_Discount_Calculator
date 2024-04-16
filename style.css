@@ -1,0 +1,52 @@
+body{
+  background: rgb(28,42,107);
+background: radial-gradient(circle, rgba(28,42,107,1) 0%, rgba(148,187,233,1) 100%);
+}
+header,main{
+  text-align: center;
+}
+main{
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h2{
+  text-align: center;
+  color: rgba(3, 3, 99, 0.77);
+  background-color: #cacacb;
+  border: 2px solid #AD88C6;
+}
+.container{
+  border: 2px solid rgb(11, 11, 11);
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 500px;
+  background-color: #cbcacb;
+}
+label {
+  margin-bottom: 20px;
+  margin-right: 15px;
+}
+select {
+  margin-bottom: 20px;
+  width: 150px;
+}
+input{
+  margin-bottom: 20px;
+  margin-left: 40px;
+  width: 145px;
+}
+.btn{
+  margin-top: 20px;
+  width: 150px;
+  background: rgb(28,42,107);
+background: radial-gradient(circle, rgba(28,42,107,1) 0%, rgba(148,187,233,1) 100%);
+  color: aliceblue;
+  border-radius: 35px;
+  padding: 8px 8px;
+}
+footer{
+  background-color: rgb(248, 226, 226);
+}
